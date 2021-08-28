@@ -7,4 +7,6 @@ This project involved refactoring the code for Horiseon Social Solutions Service
 - added semantic elements
 - provided CSS and HTML comments to improve readability 
 
+Link to deployed site: (https://kadargo63.github.io/Challenge_1/)
+
 ![mockup](https://user-images.githubusercontent.com/88639772/131229473-295e1fc2-6f96-4c05-ba6b-81c33093f3ba.png)
